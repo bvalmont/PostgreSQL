@@ -1,3 +1,4 @@
+![](https://www.bing.com/th?id=OIP.lZrXmWJRDLqIImJThs5LrwHaDZ&w=300&h=137&c=7&o=5&pid=1.7)
 # PostgreSQL
 # Background
 In this project, tables will be designed to hold data from .csv, import the .csv files into a SQL database, and query for answers from the data in the database. (Data Modeling, Data Engieering, Data Analysis Project)
